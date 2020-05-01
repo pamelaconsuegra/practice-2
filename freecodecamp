@@ -1,0 +1,27 @@
+1.Understanding Uninitialized Variables
+// Only change code below this line
+var a=5;
+var b=10;
+var c= "I am a";
+// Only change code above this line
+
+a = a + 1;
+b = b + 5;
+c = c + " String!";
+
+2.Understanding Case Sensitivity in Variables
+// Variable declarations
+var studlyCapVar=10;
+var properCamelCase= "A String";
+var titleCaseOver=9000;
+
+// Variable assignments
+studlyCapVar = 10;
+properCamelCase = "A String";
+titleCaseOver = 9000;
+
+3.Add Two Numbers with JavaScript
+var sum = 10 + 10;
+
+4.Subtract One Number from Another with JavaScript
+var difference = 45 - 33;
